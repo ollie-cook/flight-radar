@@ -31,7 +31,7 @@ import time
 
 uh = UnicornHATMini()
 
-uh.set_brightness(0.3)
+uh.set_brightness(0.1)
 
 def displayCode(str, x, colour):
         i = 0
